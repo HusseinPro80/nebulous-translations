@@ -314,10 +314,10 @@
     <string name="Score_3_goals_in_a_single_Soccer_game_">"تسجيل 3 أهداف في مباراة لكرة القدم واحدة."</string>
     <string name="Total_Domination">"إجمالي السيطرة"</string>
     <string name="Win_500_games_of_any_type_">"الفوز بـ 500 لعبة من اي نوع."</string>
-    <string name="Translations">"المـتـرجمـون"</string>
-    <string name="Developers">"المـطـورون"</string>
-    <string name="Special_Thanks">"شُـكـر خـاص"</string>
-    <string name="Many_Thanks_To_Every_Nebulous_Fan">"شُـكـر كـبـيـر لـكـل مـشـجـعي Nebulous!"</string>
+    <string name="Translations">"المترجمون"</string>
+    <string name="Developers">"المطورون"</string>
+    <string name="Special_Thanks">"شُكر خاص"</string>
+    <string name="Many_Thanks_To_Every_Nebulous_Fan">"شُكر كبير لكل مشجعي Nebulous!"</string>
     <string name="Color_Blind">"عمى الألوان"</string>
     <string name="Daily_Quest_Complete_">"تم إنجاز المهمة اليومية !"</string>
     <string name="COPY_ID">"نسخ رقم الهوية"</string>
@@ -990,7 +990,7 @@
     <string name="GAME">لعبة</string>
     <string name="Saved_">تم الحفظ!</string>
     <string name="Name_Opacity_">شفافية الإسم:</string>
-    <string name="SET_PROFILE_PIC">وَضـع صورة للمَلَف.</string>
+    <string name="SET_PROFILE_PIC">وَضع صورة للمَلَف.</string>
     <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">قُبول جَمِيعْ طلباتِ الصَداقْة</string>
     <string name="App_Perf_Stats">إحصائيات أداء التطبيق</string>
     <string name="COPY">نسخ</string>
@@ -1072,7 +1072,7 @@
 - المحتوى / أو بعض الإشارات الجنسية
 - جلود نيبلوس الغير معدلة / فن
 - محتوى جور / انتحار
-- العراة (لا قميص)
+- العراة (بدون ملابس)
 - جلود داكنة جدا
 - جلود شفافة
 - المخدرات (الكحول / السيجار / الماريجوانا)
@@ -1086,7 +1086,7 @@
     <string name="Dot_Deity">آله النقاط</string>
     <string name="Mass_Mastery">السيطرة على الكتلة</string>
     <string name="Gain_100_000_000_mass">كسب 100,000,000 من الكتلة</string>
-    <string name="VET">سَـنـة</string>
+    <string name="VET">سَنة</string>
     <string name="Mute">كتم</string>
     <string name="Unmute">إلغاء الكتم</string>
     <string name="Community">المجتمع</string>
@@ -1320,6 +1320,7 @@ Commands:
 !allow {id}
 !allow reset
 !winner"
+!team {id}
 </string>
     <string name="ID_Sort">نوع الهوية</string>
     <string name="Master_Tamer">مُروِّض مُتقن</string>
@@ -1376,7 +1377,7 @@ Commands:
     <string name="pm">الخاص</string>
     <string name="You_are_already_friends_">أنتم بالفعل أصدقاء.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">يجب أن يكون عمر الحساب يومًا واحدًا لإرسال البريد.</string>
-    <string name="Translator">متـرجـم</string>
+    <string name="Translator">المترجم</string>
     <string name="SUCCESS">تم بنجاح</string>
 
 

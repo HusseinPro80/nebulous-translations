@@ -1086,7 +1086,7 @@
     <string name="Dot_Deity">آله النقاط</string>
     <string name="Mass_Mastery">السيطرة على الكتلة</string>
     <string name="Gain_100_000_000_mass">كسب 100,000,000 من الكتلة</string>
-    <string name="VET">سَـنـة</string>
+    <string name="VET">سنة</string>
     <string name="Mute">كتم</string>
     <string name="Unmute">إلغاء الكتم</string>
     <string name="Community">المجتمع</string>
@@ -1231,7 +1231,7 @@
     <string name="Spectate_Killer_On_Death">مُشاهدة القاتل</string>
     <string name="Rainbow_Holes">ثُقب قوس قزح</string>
     <string name="LIFE_STEAL">سرقة الحياة</string>
-    <string name="Kicked_From_Game_">تَم طَـردُك من الغُرفة</string>
+    <string name="Kicked_From_Game_">تَم طَردُك من الغُرفة</string>
     <string name="Conquest">غَلَبة</string>
     <string name="Finish_the_last_mission_in_the_campaign_">انهِ المُهمه الأخيرة في الحملة</string>
     <string name="Collected_">جُمِعت:</string>
@@ -1338,7 +1338,7 @@ Commands:
     <string name="Complete_campaign_mission_">أكمل مهمات الحملة</string>
     <string name="Specify_Reason_">حدد السبب:</string>
     <string name="FREE_FOR_ALL">حر للجميع</string>
-    <string name="SPECIAL">مميز</string>
+    <string name="SPECIAL">مُمَيز</string>
     <string name="FREE">مجانا</string>
     <string name="x5_Clan_XP_1_Day">مسرع العشيرةX5  لمدة يوم واحد </string>
     <string name="x5_Clan_XP_7_days">مسرع العشيرةX5  لمدة سبع ايام</string>
@@ -1376,7 +1376,7 @@ Commands:
     <string name="pm">الخاص</string>
     <string name="You_are_already_friends_">أنتم بالفعل أصدقاء.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">يجب أن يكون عمر الحساب يومًا واحدًا لإرسال البريد.</string>
-    <string name="Translator">متـرجـم</string>
+    <string name="Translator">مترجم</string>
     <string name="SUCCESS">تم بنجاح</string>
 
 

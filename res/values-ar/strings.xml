@@ -112,8 +112,8 @@
     <string name="SIGNING_IN">"تسجيل الدخول…"</string>
     <string name="New_Friend_Request">"طلب صداقة جديد!"</string>
     <string name="REQUEST_FRIEND">"إرسال طلب صداقة"</string>
-    <string name="Private">"خاص"</string>
-    <string name="Public">"عام"</string>
+    <string name="Private">"خاصة"</string>
+    <string name="Public">"عامة"</string>
     <string name="Bot">"لاعب آلي"</string>
     <string name="You">"أنت"</string>
     <string name="This_player_is_a_bot">"هذا اللاعب آلي"</string>
@@ -381,8 +381,8 @@
     <string name="Spectating">"مشاهدة"</string>
 
 
-    <string name="snowflakes_">"الثلوج٠"</string>
-    <string name="presents_">"الهدايا."</string>
+    <string name="snowflakes_">"الثلوج"</string>
+    <string name="presents_">"الهدايا"</string>
     <string name="Snowflake_Collector">"جامع الثلوج"</string>
     <string name="Present_Collector">"جامع الهدايا"</string>
 
@@ -446,7 +446,7 @@
     <string name="Seasonal">"موسمي"</string>
 
 
-    <string name="Temporarily_Disabled_">"موقوف مؤقتا."</string>
+    <string name="Temporarily_Disabled_">"موقوف مؤقتا"</string>
     <string name="BIGGEST">"أكبر"</string>
 
 
@@ -462,29 +462,29 @@
     <string name="Plasma_Mogul">"ملك البلازما"</string>
     <string name="Plasma_Collector">"جامع البلازما"</string>
     <string name="Plasma_Hoarder">"مكدس البلازما"</string>
-    <string name="Collect_1_000_Plasma">"جمع 1000 من البلازما."</string>
-    <string name="Collect_10_000_Plasma_">"جمع 10،000 من البلازما."</string>
-    <string name="Collect_100_000_Plasma">"جمع 100،000 من البلازما."</string>
+    <string name="Collect_1_000_Plasma">"جمع 1000 من البلازما"</string>
+    <string name="Collect_10_000_Plasma_">"جمع 10،000 من البلازما"</string>
+    <string name="Collect_100_000_Plasma">"جمع 100،000 من البلازما"</string>
     <string name="Plasma_Collected_">"البلازما المجموعة :"</string>
     <string name="Plasma_Purchases">"مشتريات البلازما"</string>
 
     <string name="ENTER">"أدخل"</string>
     <string name="_1v1">"١ضد١"</string>
     <string name="Practice">"تمرن"</string>
-    <string name="ArenaDescription">"حياة واحدة. وسيحصل الفائز %s البلازما."</string>
+    <string name="ArenaDescription">"حياة واحدة. وسيحصل الفائز %s البلازما"</string>
     <string name="Contestant">"متنافس"</string>
     <string name="Duelist">"مبارز"</string>
     <string name="Gladiator">"مجالد"</string>
     <string name="Challenger">"المحارب المتحدي"</string>
-    <string name="Win_1_1v1_Arenas_">"الفوز بتحدي 1ضد1."</string>
-    <string name="Win_10_Arenas_">"الفوز بـ10 تحديات."</string>
-    <string name="Win_100_Arenas_">"الفوز بـ 100 تحدي."</string>
-    <string name="Win_1000_Arenas">"الفوز بـ1000 تحدي."</string>
+    <string name="Win_1_1v1_Arenas_">"الفوز بتحدي 1ضد1"</string>
+    <string name="Win_10_Arenas_">"الفوز بـ10 تحديات"</string>
+    <string name="Win_100_Arenas_">"الفوز بـ 100 تحدي"</string>
+    <string name="Win_1000_Arenas">"الفوز بـ1000 تحدي"</string>
 
 
-    <string name="Already_in_arena_">"أنت في تحدي حاليّا."</string>
-    <string name="Already_in_queue_">"انت في القائمة حاليا."</string>
-    <string name="Invalid_Account_ID_">"رقم هوية الحساب غير صالح."</string>
+    <string name="Already_in_arena_">"أنت في تحدي حاليّا"</string>
+    <string name="Already_in_queue_">"انت في القائمة حاليا"</string>
+    <string name="Invalid_Account_ID_">"رقم هوية الحساب غير صالح"</string>
 
     <string name="Validating">"التحقق من صحة"</string>
 
@@ -608,22 +608,22 @@
     <string name="No_file_browser_installed_">"لا ملف متصفح مثبت!"</string>
     <string name="Choose_File">"أختر ملف"</string>
     <string name="Google_Profile">"الملف الشخصي في Google"</string>
-    <string name="You_must_be_signed_in_to_Google_">"يجب تسجيل الدخول إلى برنامج Google."</string>
+    <string name="You_must_be_signed_in_to_Google_">"يجب تسجيل الدخول إلى برنامج Google"</string>
 
     <string name="MAYHEM">"نمط الفوضى"</string>
     <string name="eggs_">"البيوض."</string>
     <string name="Egg_Collector">"جامع البيض"</string>
     <string name="Egg_Hoarder">"مكدس تجميع البيض"</string>
     <string name="Egg_Mogul">"ملك تجميع البيض"</string>
-    <string name="Collect_1_000_eggs_">"جمع 1000 من البيض."</string>
-    <string name="Collect_5_000_eggs_">"جمع 5000 من البيض."</string>
-    <string name="Collect_10_000_eggs_">"جمع 10،000 من البيض."</string>
+    <string name="Collect_1_000_eggs_">"جمع 1000 من البيض"</string>
+    <string name="Collect_5_000_eggs_">"جمع 5000 من البيض"</string>
+    <string name="Collect_10_000_eggs_">"جمع 10،000 من البيض"</string>
     <string name="HISTORY">"السِجِل"</string>
     <string name="CLAN_HISTORY">"سِجِل العشيرة"</string>
 
 
     <string name="Love_Nebulous_">"أحب Nebulous"</string>
-    <string name="Please_support_Nebulous_by_rating_it_">"يرجى دعم Nebulous من خلال تقييمها ."</string>
+    <string name="Please_support_Nebulous_by_rating_it_">"يرجى دعم Nebulous من خلال تقييمها"</string>
     <string name="MAYHEM_MODE">"تفعيل نمط الفوضى"</string>
     <string name="Times_Teleported_">"عدد مرات الإنتقال:"</string>
     <string name="Powerups_Used_">"أسلحة الفوضى المستعملة:"</string>
@@ -637,15 +637,15 @@
     <string name="Request_Timed_Out">"إنتهت مدة صلاحية الطلب"</string>
     <string name="You_Are_Spectating_">"أنت مشاهد."</string>
     <string name="Account_In_Use_">"الحساب في قيد الاستخدام!"</string>
-    <string name="Cannot_Join_Arena_">"لا يمكن دخول الحلبة."</string>
+    <string name="Cannot_Join_Arena_">"لا يمكن دخول الحلبة"</string>
     <string name="Signing_out_will_disconnect_you_from_the_current_game">"تسجيل الخروج سيجعلك تغادر اللعبة الحالية!"</string>
     <string name="raindrops_">"قطرات المطر."</string>
     <string name="Raindrop_Collector">"جامع قطرات المطر"</string>
     <string name="Raindrop_Hoarder">"مكدس قطرات المطر"</string>
     <string name="Raindrop_Mogul">"ملك تجميع قطرات المطر"</string>
-    <string name="Collect_1_000_raindrops_">"جمع 1000 من قطرات المطر."</string>
-    <string name="Collect_5_000_raindrops_">"جمع 5000 من قطرات المطر."</string>
-    <string name="Collect_10_000_raindrops_">"جمع 10،000 من قطرات المطر."</string>
+    <string name="Collect_1_000_raindrops_">"جمع 1000 من قطرات المطر"</string>
+    <string name="Collect_5_000_raindrops_">"جمع 5000 من قطرات المطر"</string>
+    <string name="Collect_10_000_raindrops_">"جمع 10،000 من قطرات المطر"</string>
     <string name="Copy_Message">"نسخ الرسالة"</string>
     <string name="Copied_to_clipboard_">"تم النسخ إلى الحافظة."</string>
     <string name="COPY_NAME">"نسخ الإسم"</string>
@@ -654,7 +654,7 @@
     <string name="__has_challenged_you_to_a_1v1_match_">"%s قد تحداك  العب مباراة ١ ضد ١ !"</string>
     <string name="Challenge_Expired">"انتهاء مدة صلاحية التحدي"</string>
     <string name="Enable_Challenges">"تمكين التحديات"</string>
-    <string name="Wait_for_the_current_challenge_to_expire_">"إنتظر نهاية مدة صلاحية التحدي الحالي."</string>
+    <string name="Wait_for_the_current_challenge_to_expire_">"إنتظر نهاية مدة صلاحية التحدي الحالي"</string>
     <string name="CHALLENGE_OPTIONS">"خيارات التحدي"</string>
     <string name="Accept">"قبول"</string>
     <string name="Decline">"رفض"</string>
@@ -663,9 +663,9 @@
     <string name="Nebula_Collector">"جامع السدم"</string>
     <string name="Nebula_Hoarder">"مكدس السدم"</string>
     <string name="Nebula_Mogul">"ملك تجميع السدم"</string>
-    <string name="Collect_1_000_nebulas_">"جمع 1000 من السدم."</string>
-    <string name="Collect_5_000_nebulas_">"جمع 5000 من السدم."</string>
-    <string name="Collect_10_000_nebulas_">"جمع 10،000 من السدم."</string>
+    <string name="Collect_1_000_nebulas_">"جمع 1000 من السدم"</string>
+    <string name="Collect_5_000_nebulas_">"جمع 5000 من السدم"</string>
+    <string name="Collect_10_000_nebulas_">"جمع 10،000 من السدم"</string>
     <string name="nebulas_">"السدم."</string>
     <string name="Incompatible_versions_">"إصدارات غير متوافقة."</string>
     <string name="Update_Available_">"يوجد تحديث!"</string>
@@ -678,42 +678,42 @@
     <string name="Sun_Collector">"جامع الشموس"</string>
     <string name="Sun_Hoarder">"مكدس الشموس"</string>
     <string name="Sun_Mogul">"ملك تجميع الشموس"</string>
-    <string name="Collect_1_000_suns_">"جمع 1000 من الشموس."</string>
-    <string name="Collect_5_000_suns_">"جمع 5000 من الشموس."</string>
-    <string name="Collect_10_000_suns_">"جمع 10،000 من الشموس."</string>
+    <string name="Collect_1_000_suns_">"جمع 1000 من الشموس"</string>
+    <string name="Collect_5_000_suns_">"جمع 5000 من الشموس"</string>
+    <string name="Collect_10_000_suns_">"جمع 10،000 من الشموس"</string>
     <string name="Reward_Videos_">"مكافأة الفيديو!"</string>
     <string name="Free_Plasma_">"بلازما مجانية!"</string>
     <string name="moons_">"أقمار."</string>
     <string name="Moon_Collector">"جامع الأقمار"</string>
     <string name="Moon_Hoarder">"مكدس الأقمار"</string>
     <string name="Moon_Mogul">"ملك تجميع الأقمار"</string>
-    <string name="Collect_1_000_moons_">"جمع 1000 من الأقمار."</string>
-    <string name="Collect_5_000_moons_">"جمع 5000 من الأقمار."</string>
-    <string name="Collect_10_000_moons_">"جمع 10،000 من الأقمار."</string>
+    <string name="Collect_1_000_moons_">"جمع 1000 من الأقمار"</string>
+    <string name="Collect_5_000_moons_">"جمع 5000 من الأقمار"</string>
+    <string name="Collect_10_000_moons_">"جمع 10،000 من الأقمار"</string>
     <string name="BLUETOOTH">"بلوتوث"</string>
     <string name="HOST">"مُضيف"</string>
     <string name="This_device_does_not_support_bluetooth_">"هذا الجهاز لا يدعم البلوتوث"</string>
     <string name="member_permissions">"أذونات الأعضاء"</string>
     <string name="edit">"تعديل"</string>
     <string name="start_clan_war">"بدء حرب العشائر"</string>
-    <string name="join_clan_war">" الدخول إلى حرب العشائر "</string>
+    <string name="join_clan_war">" الدخول إلى حرب العشائر"</string>
     <string name="none">"لا شيء"</string>
     <string name="INVALID_TOKEN">"رمز غير صالح!"</string>
     <string name="banned_until">"محظور حتى "</string>
     <string name="Note_Collector">"جامع رموز الموسيقى"</string>
     <string name="Note_Hoarder">"مكدس رموز الموسيقى"</string>
     <string name="Note_Mogul">"ملك رموز الموسيقى"</string>
-    <string name="Collect_1_000_notes_">"جمع 1000 من رموز الموسيقى."</string>
-    <string name="Collect_5_000_notes_">"جمع 5000 من رموز الموسيقى."</string>
-    <string name="Collect_10_000_notes_">"جمع 10،000 من رموز الموسيقى."</string>
+    <string name="Collect_1_000_notes_">"جمع 1000 من رموز الموسيقى"</string>
+    <string name="Collect_5_000_notes_">"جمع 5000 من رموز الموسيقى"</string>
+    <string name="Collect_10_000_notes_">"جمع 10،000 من رموز الموسيقى.إ"</string>
     <string name="notes_">"رموز الموسيقى."</string>
     <string name="CLICK_CHEAT_DETECTED_">"اتم إكتشاف برنامج غش!"</string>
     <string name="Pumpkin_Hoarder">"مكدس اليقطين"</string>
     <string name="Pumpkin_Mogul">"ملك تجميع اليقطين"</string>
     <string name="Leaf_Mogul">"ملك تجميع الأوراق"</string>
-    <string name="Collect_5000_pumpkins_">"جمع 5000 من اليقطين."</string>
-    <string name="Collect_10000_pumpkins_">"جمع 10،000 من اليقطين."</string>
-    <string name="Collect_10000_leaves_">"جمع 10،000 من الأوراق."</string>
+    <string name="Collect_5000_pumpkins_">"جمع 5000 من اليقطين"</string>
+    <string name="Collect_10000_pumpkins_">"جمع 10،000 من اليقطين"</string>
+    <string name="Collect_10000_leaves_">"جمع 10،000 من الأوراق"</string>
     <string name="Eject">"إطلاق"</string>
     <string name="Eject_Skin">"صورة الإطلاق"</string>
     <string name="Double_Plasma__">"بلازما مزدوجة !!"</string>
@@ -730,7 +730,7 @@
     <string name="upload_warning">"هل انت متأكد من انك تريد استخدام هذه الصورة؟ اللاعبين الآخرين سيمكنهم رؤية هذه الصورة، يمكن ان تستغرق عملية قبول الصورة اسبوع او اقل، اذا كانت الصورة غير لائقة سيتم رفضها و لن تسترجع البلازما التي اشتريت بها هذه الصورة."</string>
 
     <string name="In_Review">"جاري التحقق منها"</string>
-    <string name="Account_Uploads">"تحميلات الحساب "</string>
+    <string name="Account_Uploads">"تحميلات الحساب"</string>
     <string name="Clan_Uploads">"تحميلات العشيرة "</string>
     <string name="Empty">"فارغة"</string>
     <string name="Select">"اختيار"</string>
@@ -739,7 +739,7 @@
     <string name="upload_size_failure">"لا يمكن تحميل هذه الصورة لأنها كبيرة جدا. يرجى تغيير الصورة ."</string>
     <string name="CONTRIBUTE_PLASMA">"المساهمة بالبلازما"</string>
     <string name="Specify_Contribution_Amount">" تحديد مبلغ المساهمة"</string>
-    <string name="Clan_Contribution">"مساهمة العشيرة "</string>
+    <string name="Clan_Contribution">"مساهمة العشيرة"</string>
     <string name="FILTER">"تصفيّه"</string>
     <string name="List_Count_">"عدد القائمة:"</string>
     <string name="Download_Skins">"تحميل الصور"</string>
@@ -781,22 +781,22 @@
     <string name="DELETE">"حذف"</string>
     <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"ملاحظة: يمكنك إلغاء حظر شخص ما عن طريق إرسال طلب صداقة إليه."</string>
     <string name="Select_Friend">"حدد صديق"</string>
-    <string name="Failed_to_send_mail_">"فشل في إرسال البريد."</string>
+    <string name="Failed_to_send_mail_">"فشل في إرسال البريد"</string>
     <string name="In_Game_Mail">"البريد في اللعبة"</string>
     <string name="Nav_Buttons_">"أزرار التواصل:"</string>
     <string name="account_warning">"لا تقم بمشاركة كلمة مرور حسابك مع أي شخص لأي سبب كان.. لايمكننا إسترجاع حسابك إذا تم إختراقه!"</string>
     <string name="Clan_Hero">"بطل العشيرة"</string>
     <string name="Win_1000_Clan_Wars">"الفوز بـ1000 حروب العشائر"</string>
     <string name="NAME_COLOR">"لون الإسم"</string>
-    <string name="name_color_instructions">"حدد الحروف التي تريد تغييرها ثم اختر اللون."</string>
+    <string name="name_color_instructions">"حدد الحروف التي تريد تغييرها ثم اختر اللون"</string>
     <string name="Cannot_change_this_character_">"لا يمكن تغيير هذه الشخصية"</string>
     <string name="ZOMBIE_APOCALYPSE">"هجوم الزومبي"</string>
     <string name="Survive_a_Zombie_Apocalypse">"النجاة في هجوم الزومبي"</string>
     <string name="ZA">"الزومبي"</string>
     <string name="Pandemic">"الزومبي"</string>
     <string name="Immunity">"حصانة"</string>
-    <string name="Win_as_zombies_in_2_minutes_or_less_">" الفوز مع الزومبي قبل النهاية بدقيقتين او اقل."</string>
-    <string name="Win_as_survivors_with_no_losses_">"الفوز مع الناجين من دون أي خسائر."</string>
+    <string name="Win_as_zombies_in_2_minutes_or_less_">"الفوز مع الزومبي قبل النهاية بدقيقتين او اقل"</string>
+    <string name="Win_as_survivors_with_no_losses_">"الفوز مع الناجين من دون أي خسائر"</string>
     <string name="ZOMBIE_">"مع الزومبي!"</string>
     <string name="SURVIVOR_">"الباقين على قيد الحياة!"</string>
     <string name="Zombies">"الزومبي"</string>
@@ -840,13 +840,13 @@
     <string name="Win_a_Paint_Game">ربح لعبة الرسم</string>
     <string name="Whiteout">بيضوي</string>
     <string name="Speed_Painter">رسام سريع</string>
-    <string name="Win_a_Paint_game_with_all_opponents_having_0_score_"> اربح لعبة الرسم مع كل المنافسين الذين لديهم 0 من نقاط.</string>
-    <string name="Win_a_Paint_game_in_60_seconds_or_less_">اربح لعبة الرسم في 60 ثانية أو أقل.</string>
+    <string name="Win_a_Paint_game_with_all_opponents_having_0_score_"> اربح لعبة الرسم مع كل المنافسين الذين لديهم 0 من نقاط</string>
+    <string name="Win_a_Paint_game_in_60_seconds_or_less_">اربح لعبة الرسم في 60 ثانية أو أقل</string>
     <string name="Autoclick">مُسرع الضَغط</string>
     <string name="Autoclick_24_Hours">مُسرع الضَغط لمُدة 24 ساعة.</string>
     <string name="Autoclick_1_Hour">مُسرع الَضغط لمُدة ساعة.</string>
-    <string name="Ultraclick_24_Hours">مُسرع الضَغط الفائق لمُدة 24 ساعة.</string>
-    <string name="Ultraclick_1_Hour">مُسرع الضَغط الفائق لمُدة ساعة.</string>
+    <string name="Ultraclick_24_Hours">مُسرع الضَغط الفائق لمُدة 24 ساعة</string>
+    <string name="Ultraclick_1_Hour">مُسرع الضَغط الفائق لمُدة ساعة</string>
     <string name="Ultraclick">مسرع الضغط الفائق</string>
     <string name="May_Reduce_Lag">(قد يكون هناك القليل من التأخير)</string>
     <string name="Ultraclick_Permanent">"مسرع الضغط الفائق الدائم"</string>
@@ -863,8 +863,8 @@
     <string name="NOW">"الآن"</string>
     <string name="Team_Deathmatch_Domination">"الهيمنة في فرق الموت"</string>
     <string name="We_Will_Survive">"سنبقى على قيد الحياة"</string>
-    <string name="Win_by_at_least_5_players_in_a_Team_Deathmatch_game_">"الفوز بفارق لا يقل عن 5 لاعبين في لعبة فريق الموت."</string>
-    <string name="Survive_but_do_not_win_a_Team_Deathmatch_game_">" يفوز لعبة فريق الموت من دون الفوز في لعبة فريق الموت."</string>
+    <string name="Win_by_at_least_5_players_in_a_Team_Deathmatch_game_">"الفوز بفارق لا يقل عن 5 لاعبين في لعبة فريق الموت"</string>
+    <string name="Survive_but_do_not_win_a_Team_Deathmatch_game_">" يفوز لعبة فريق الموت من دون الفوز في لعبة فريق الموت"</string>
     <string name="Win_a_Team_Deathmatch_Game">"الفوز في لعبة فريق الموت"</string>
     <string name="TEAM_DEATHMATCH">"فِرق الموت"</string>
     <string name="Speed_Click_Toggle">"تبديل سرعة الضغط"</string>
@@ -877,11 +877,11 @@
     <string name="Plethora_of_Spins">حزمة كبيرة من التدويرات (50)</string>
     <string name="SIGN_OUT_ALL_DEVICES">تسجيل الخروج من كل الأجهزة</string>
     <string name="Tournament_Forming">يتم تشكيل البطولة الآن</string>
-    <string name="TeamTourneyDescription">يجب عليك أنت وزميلك التسجيل للعب في بطولة الفرق. سوف يتم احتساب كل البلازما عند بدء البطولة ولكن يمكنك إلغاء التسجيل قبل أن تبدأ. تحتاج إلى%d من المتسابقين على الأقل للبدء.</string>
+    <string name="TeamTourneyDescription">يجب عليك أنت وزميلك التسجيل للعب في بطولة الفرق. سوف يتم احتساب كل البلازما عند بدء البطولة ولكن يمكنك إلغاء التسجيل قبل أن تبدأ. تحتاج إلى%d من المتسابقين على الأقل للبدء</string>
     <string name="Free_Agent">لاعب حر</string>
-    <string name="This_player_selected_a_different_teammate_"> هذا اللاعب المختار قد إختار زميلاً آخر في الفريق.</string>
+    <string name="This_player_selected_a_different_teammate_"> هذا اللاعب المختار قد إختار زميلاً آخر في الفريق</string>
     <string name="muted_until"> تم الكتم إلى </string>
-    <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">تعدد المحتوى من التطبيق قد تتغير عند لعب متعددة.</string>
+    <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">تعدد المحتوى من التطبيق قد تتغير عند لعب متعددة</string>
     <string name="UI_Opacity_">شفافية الواجهة</string>
     <string name="LOAD">تحميل المخزن</string>
     <string name="REMOVE">ازالة</string>
@@ -928,7 +928,7 @@
     <string name="Choose_Menu">"اختر القائمة"</string>
     <string name="SPECTATE">مشاهدة</string>
     <string name="INVITE">دعوة</string>
-    <string name="error_1">القائد ومساعديه هم الوحيدون الذي يُسمح لهم بأرسال رساله للعشيرة !.</string>
+    <string name="error_1">القائد ومساعديه هم الوحيدون الذي يُسمح لهم بأرسال رساله للعشيرة !</string>
     <string name="Hat">القبعة</string>
     <string name="Hats">القبعات</string>
     <string name="Pet_Uploads">تحميلات الحيوانات</string>
@@ -936,7 +936,7 @@
     <string name="Clan_Pet_Uploads">تحميلات الحيوانات الأليفة في العشيرة</string>
     <string name="YT">يوتيوبر</string>
     <string name="FREE_TODAY">مجاني اليوم!</string>
-    <string name="Cannot_cancel_this_skin_yet_">لا يمكن إلغاء هذه الصورة حالياً.</string>
+    <string name="Cannot_cancel_this_skin_yet_">لا يمكن إلغاء هذه الصورة حالياً</string>
     <string name="SPLIT_16X">الإنقسام على 16</string>
     <string name="SET_PUBLIC_DESCRIPTION">وضع وصف للعامة</string>
     <string name="SET_NOTE">وضع ملاحظة</string>
@@ -977,7 +977,7 @@
     <string name="Open_Present">فتح الهدية</string>
     <string name="OPEN">فتح</string>
     <string name="Halo">صورة حافة الدائرة</string>
-    <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"لإستخدم حافة الدائرة هذه يجب ان تكون على الأقل في المستوى %1$s و الحصول على %2$s إنجاز."</string>
+    <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"لإستخدم حافة الدائرة هذه يجب ان تكون على الأقل في المستوى %1$s و الحصول على %2$s إنجاز"</string>
     <string name="Halos">إظهار صور حافة الدائرة</string>
     <string name="CAMPAIGN">حملة ضد الآليين</string>
     <string name="Mission">المهمة</string>
@@ -990,7 +990,7 @@
     <string name="GAME">لعبة</string>
     <string name="Saved_">تم الحفظ!</string>
     <string name="Name_Opacity_">شفافية الإسم:</string>
-    <string name="SET_PROFILE_PIC">وَضـع صورة للمَلَف.</string>
+    <string name="SET_PROFILE_PIC">وَضـع صورة للمَلَف</string>
     <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">قُبول جَمِيعْ طلباتِ الصَداقْة</string>
     <string name="App_Perf_Stats">إحصائيات أداء التطبيق</string>
     <string name="COPY">نسخ</string>
@@ -1021,7 +1021,7 @@
     <string name="Birthday">يوم الميلاد</string>
     <string name="Mass_Boost">تعزيز الكتلة !</string>
     <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">لا يَعمل تعزيز الكُتلة في التحديّات أو البُطولات أو حُروب العشّائر!</string>
-    <string name="ArenaDescriptionPure">لا ضغط التلقائي أو مسرع الضغط. تحصل على حياة واحدة فقط. سوف يتلقى الفائز %s بلازما.</string>
+    <string name="ArenaDescriptionPure">لا ضغط التلقائي أو مسرع الضغط. تحصل على حياة واحدة فقط. سوف يتلقى الفائز %s بلازما</string>
     <string name="_1v1_Pure">١ضد١ نقي</string>
     <string name="Allow_Ultraclick"> تشغيل مسرع الضغط</string>
     <string name="Allow_Mass_Boost"> تفعيل مُعزز الكُتلة</string>
@@ -1106,8 +1106,8 @@
     <string name="ENEMY">عدو</string>
     <string name="ALLY">حليف</string>
     <string name="Rename">إعادة التسمية</string>
-    <string name="Set_friendly_name_">حدد اسما لصديقك.</string>
-    <string name="Leave_blank_for_none_">اترك فراغا لعدم التغيير.</string>
+    <string name="Set_friendly_name_">حدد اسما لصديقك</string>
+    <string name="Leave_blank_for_none_">اترك فراغا لعدم التغيير</string>
     <string name="Vote_Kick">طرد اللاعب</string>
     <string name="FONT">نوع الخط</string>
     <string name="CIRCLE">دائرة</string>
@@ -1130,7 +1130,7 @@
 
     <string name="EXCLUSIVE_skins_pets_hats_and_more_">اشكال ,قبعات ,حيوانات وأكثر حصريا!</string>
     <string name="BUY_NOW_">اشتري الآن !</string>
-    <string name="already_purchased">أنت أو الشخص الذي تشتري هذا من أجله يمتلك هذا بالفعل.</string>
+    <string name="already_purchased">أنت أو الشخص الذي تشتري هذا من أجله يمتلك هذا بالفعل</string>
     <string name="Halo_Animations">مؤثرات صورة حافة الدائرة</string>
     <string name="Trick_Notifications">اشعارات التلميحات</string>
     <string name="Channel">قناة</string>
